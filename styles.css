@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(133, 250, 109);
+    }
+h1 {
+    font-family: "Comic Relief";
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+button {
+    font-family: "Comic Relief";
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    background-color: rgb(43, 226, 134);
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+ 
+
+button:hover {
+    background-color: rgb(21, 202, 111);
+}
+input {
+    text-align: center;
+    
+    
+}
+p {
+    font-family: "Comic relief";
+    font-weight: 500;
+    font-size: larger;
+}
